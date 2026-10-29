@@ -23,9 +23,7 @@ Built with pure HTML, CSS, and JavaScript, the project delivers a visually engag
 
 ## Live Demo
 
-Try Universe 26 Cursor Trail directly in your browser:
-
-[**Open Live Demo**](https://fouad-salehi.github.io/universe-26-cursor-trail/)
+Try Universe 26 Cursor Trail directly in your browser: [**Open Live Demo**](https://fouad-salehi.github.io/universe-26-cursor-trail/)
 
 ## Screenshots
 

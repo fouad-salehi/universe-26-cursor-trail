@@ -1,4 +1,4 @@
-# Universe 26 Cursor Trail
+# universe-26-cursor-trail
 
 ![Platform](https://img.shields.io/badge/platform-Web-blue)
 ![Language](https://img.shields.io/badge/language-JavaScript-yellow)

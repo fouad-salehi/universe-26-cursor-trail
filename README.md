@@ -1,11 +1,11 @@
 # universe-26-cursor-trail
 
-![Platform](https://img.shields.io/badge/platform-Web-blue)
-![Language](https://img.shields.io/badge/language-JavaScript-yellow)
-![Styling](https://img.shields.io/badge/styling-CSS3-blue)
-![Animation](https://img.shields.io/badge/animation-CSS-orange)
-![Dependencies](https://img.shields.io/badge/dependencies-None-green)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Web-0EA5E9?style=for-the-badge)
+![Language](https://img.shields.io/badge/language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Styling](https://img.shields.io/badge/styling-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Animation](https://img.shields.io/badge/animation-CSS-F97316?style=for-the-badge)
+![Dependencies](https://img.shields.io/badge/dependencies-None-22C55E?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 ## About
 
